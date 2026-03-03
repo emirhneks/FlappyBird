@@ -1,0 +1,7 @@
+Starting project at C:\Users\Emirhan\Desktop\Flappy Bird
+Starting Metro Bundler
+The following packages should be updated for best compatibility with the installed expo version:
+  react-native@0.76.7 - expected version: 0.76.9
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:8085
+Logs for your project will appear below.
