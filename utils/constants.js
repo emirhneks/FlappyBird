@@ -18,8 +18,8 @@ const CONSTANTS = {
     BIRD_Y: SCREEN_HEIGHT * 0.4,
 
     // Yerçekimi ve Zıplama Kuvveti Değerleri
-    GRAVITY: 0.4,
-    JUMP_FORCE: -8,
+    GRAVITY: 0.25,
+    JUMP_FORCE: -5.5,
 
     // Borulara Ait Özellikler
     PIPE_WIDTH: 60,
